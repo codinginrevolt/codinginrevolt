@@ -1,5 +1,7 @@
 hi, my name's sam
+
 i'm an astrophysicist(well, in-training)
+
 and here ill gather some projects i've worked/working on
 
 <!---
